@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stylemycode
 - 👀 I’m interested in programming and other stuff
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python dev all over the world to guest in my podcast
+- 💞️ I’m looking to collaborate with Python dev all over the world to guest in my podcast
 - 📫 How to reach me stylemycode2021@gmail.com
 
 <!---
